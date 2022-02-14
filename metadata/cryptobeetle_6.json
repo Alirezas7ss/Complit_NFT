@@ -1,0 +1,37 @@
+{
+  "name": "Crypto Beetle 6",
+  "description": "Crypto Beetle",
+  "image":"https://ipfs.io/ipfs/QmRj2amHC8wRrNGKyd94noeADhP31YeZnS6rTRXNnLGfuu",
+  "attributes": [{
+       "trait_type": "Generation",
+       "value": 6
+  },
+  {
+   "trait_type": "name",
+   "value":  "30"
+  },
+  {
+   "trait_type": "Hair",
+   "value":  "black"
+  },
+  {
+   "trait_type": "EYES",
+   "value": "green"
+  },
+  {
+   "trait_type": "HAT",
+   "value": "cow"
+  },
+  {
+   "trait_type": "WHAT",
+   "value": "NOTHING"  
+  },
+  {
+   "trait_type": "background",
+   "value": "space"
+  }
+
+ ]
+
+
+}
